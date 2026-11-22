@@ -18,7 +18,7 @@ O sistema gerencia livros, usuários e empréstimos de uma biblioteca universit�
 ## Como executar
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/DeyvidLucas-DEV/sistema-biblioteca.git
 cd sistema-biblioteca
 ```
 
