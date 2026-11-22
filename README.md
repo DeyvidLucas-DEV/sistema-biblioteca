@@ -6,12 +6,9 @@ O sistema gerencia livros, usuários e empréstimos de uma biblioteca universit�
 
 ## Integrantes
 
-| Nome | Matrícula |
-| ---- | --------- |
-|      |           |
-|      |           |
-|      |           |
-|      |           |
+| Nome | RGM |
+| ---- | --- |
+| Deyvid Lucas da Cunha Amorim | 34040722 |
 
 ## Linguagem e requisitos
 
